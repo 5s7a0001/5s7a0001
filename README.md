@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="280" height="210" alt="image" src="https://github.com/user-attachments/assets/cb4bb6a6-aa1f-4732-942b-249b09948e1c" />
+<img width="350" height="210" alt="image" src="https://github.com/user-attachments/assets/cb4bb6a6-aa1f-4732-942b-249b09948e1c" />
 
 # 👋 Hi, I'm Arunima Shiva
 
@@ -135,13 +135,14 @@ Customer Segmentation • Predictive Analytics
 
 <div align="center">
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f0628fe2-d414-430e-a490-cd7c057953d1" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/e5c6fc88-a355-42b3-855a-50dd6148ccb8" />
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c6bfe3aa-ace8-4226-888d-2c5dfb771bc1" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/eb6deadd-c2b4-4caa-9e2a-142e89576e48" />
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c490be50-3f94-4294-92f1-eff9bf246ec6" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/35805123-e1a9-4d1b-84c5-d769771910d7" />
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0f9c14a9-ccc3-47af-95ab-944c9068195b" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/b70cb6e3-7fe2-4fdd-bbb7-6af112187c2a" />
+
 
 </div>
 
